@@ -1,0 +1,13 @@
+encoder,direction,version,AUROC,CI_low,CI_high
+resnet50_imagenet,shenzhen → montgomery,full image,0.5573,0.453,0.6498
+resnet50_imagenet,shenzhen → montgomery,center crop,0.7381,0.6484,0.8209
+resnet50_imagenet,montgomery → shenzhen,full image,0.6749,0.6367,0.7165
+resnet50_imagenet,montgomery → shenzhen,center crop,0.7359,0.6963,0.7748
+dinov2_base,shenzhen → montgomery,full image,0.8358,0.7618,0.8996
+dinov2_base,shenzhen → montgomery,center crop,0.8272,0.7493,0.8909
+dinov2_base,montgomery → shenzhen,full image,0.7461,0.7075,0.7807
+dinov2_base,montgomery → shenzhen,center crop,0.7453,0.7076,0.7845
+rad_dino,shenzhen → montgomery,full image,0.9703,0.9437,0.9886
+rad_dino,shenzhen → montgomery,center crop,0.9675,0.9384,0.9875
+rad_dino,montgomery → shenzhen,full image,0.9383,0.9195,0.9561
+rad_dino,montgomery → shenzhen,center crop,0.9372,0.917,0.9541

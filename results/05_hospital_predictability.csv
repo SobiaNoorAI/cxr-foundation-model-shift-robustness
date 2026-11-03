@@ -1,0 +1,13 @@
+features,subset,hospital_AUROC,CI_low,CI_high
+resnet50_imagenet,all images,1.0,1.0,1.0
+resnet50_imagenet,normal only,1.0,1.0,1.0
+resnet50_imagenet,TB only,1.0,1.0,1.0
+dinov2_base,all images,1.0,1.0,1.0
+dinov2_base,normal only,1.0,1.0,1.0
+dinov2_base,TB only,1.0,1.0,1.0
+rad_dino,all images,1.0,1.0,1.0
+rad_dino,normal only,1.0,1.0,1.0
+rad_dino,TB only,1.0,1.0,1.0
+raw_pixels_32x32,all images,1.0,1.0,1.0
+raw_pixels_32x32,normal only,1.0,1.0,1.0
+raw_pixels_32x32,TB only,1.0,1.0,1.0
